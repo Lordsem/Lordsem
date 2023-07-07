@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming / translating
 - 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me ... Twitter and all the other social media sites.
+- 📫 How to reach me ... Mastodon and or Matrix preferred.
 
 <!---
 Lordsem/Lordsem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
